@@ -1,0 +1,5 @@
+git add README.md
+git add TEXT.txt
+git commit -m “Create TEXT and Readme files”
+git remote add origin https://github.com/kaitlinmuth/primewk6.git
+git push -u origin master
